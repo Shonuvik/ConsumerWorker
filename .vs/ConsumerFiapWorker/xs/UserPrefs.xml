@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{1E7146E6-4D3D-44FA-8DAE-C7184BA36877}|Default">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{1E7146E6-4D3D-44FA-8DAE-C7184BA36877}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench>
@@ -13,8 +13,6 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.ConsumerFiapWorker PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MultiItemStartupConfigurations />
 </Properties>

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9d+QNo9ukd6HJEB/nRVISgTLi6xgvfI0X7w8EYxYEzTlnA31iLWf4z9C922HrJzEEBe+plK5NPpXthj92H6mTw==",
+  "dgSpecHash": "tCBDgtaXg3XRU1BhjM8+KsJSX0whEWUuL/ElSQNvPt4yf7W2LqjHY9q36Ft8076j73PCt1GjzXu0ytVgtBMc6Q==",
   "success": true,
   "projectFilePath": "/Users/marlonaraujo/Projects/ConsumerFiapWorker/ConsumerFiapWorker/ConsumerFiapWorker.csproj",
   "expectedPackageFiles": [
@@ -29,10 +29,13 @@
     "/Users/marlonaraujo/.nuget/packages/microsoft.extensions.options/7.0.1/microsoft.extensions.options.7.0.1.nupkg.sha512",
     "/Users/marlonaraujo/.nuget/packages/microsoft.extensions.options.configurationextensions/7.0.0/microsoft.extensions.options.configurationextensions.7.0.0.nupkg.sha512",
     "/Users/marlonaraujo/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/marlonaraujo/.nuget/packages/rabbitmq.client/6.8.1/rabbitmq.client.6.8.1.nupkg.sha512",
     "/Users/marlonaraujo/.nuget/packages/system.diagnostics.diagnosticsource/7.0.1/system.diagnostics.diagnosticsource.7.0.1.nupkg.sha512",
     "/Users/marlonaraujo/.nuget/packages/system.diagnostics.eventlog/7.0.0/system.diagnostics.eventlog.7.0.0.nupkg.sha512",
+    "/Users/marlonaraujo/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
     "/Users/marlonaraujo/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
-    "/Users/marlonaraujo/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512"
+    "/Users/marlonaraujo/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512",
+    "/Users/marlonaraujo/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

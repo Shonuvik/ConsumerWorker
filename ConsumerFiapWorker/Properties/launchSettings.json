@@ -3,7 +3,10 @@
     "ConsumerFiapWorker": {
       "commandName": "Project",
       "environmentVariables": {
-        "DOTNET_ENVIRONMENT": "Development"
+        "DOTNET_ENVIRONMENT": "Development",
+        "MQ__User": "guest",
+        "MQ__Password": "guest",
+        "MQ__HostName": "localhost"
       },
       "dotnetRunMessages": true
     }
